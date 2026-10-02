@@ -1,0 +1,2 @@
+# premium-fin-kyc-001-kyc-verification-workflow-temp
+Your KYC verification process is costing you hours of manual work, spreadsheet chaos, and compliance risk. The KYC Verification Workflow Template eliminates the guesswork by giving you a battle-tested Notion system that scales from your first customer to thousands.  This isn't a generic compliance checklist—it's a purpose-built workflow that combin
